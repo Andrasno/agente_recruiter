@@ -1,0 +1,16 @@
+# Ignorar ambiente virtual e caches do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de configuração local e segredos
+.env
+.gitignore
+.dockerignore
+README.md
+
+# Ignorar logs gerados
+*.log
+
+# Ignorar arquivos de dados JSON originais (a imagem só precisa dos .parquet)
+content/
