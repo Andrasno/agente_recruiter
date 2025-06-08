@@ -1,0 +1,20 @@
+ Ambiente virtual e caches do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Arquivo de segredos
+.env
+
+# Arquivos de log e dados gerados
+*.log
+*.parquet
+*.json
+
+# Outras pastas e arquivos de configuração de IDEs
+.vscode/
+.idea/
+content/
+
+# Script de pré-processamento (não necessário na imagem final)
+preprocess.py
