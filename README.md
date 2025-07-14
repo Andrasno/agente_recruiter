@@ -1,9 +1,3 @@
-Claro\! Analisando a estrutura e o propósito de um projeto como o `agente_recruiter`, criei uma proposta de `README.md` completa e bem estruturada.
-
-Este README foi feito para ser profissional, informativo e fácil de seguir, cobrindo desde a motivação do projeto até como executá-lo.
-
------
-
 # 🤖 Agente Recrutador Virtual
 
 ### Um agente de IA para automatizar e otimizar o processo de recrutamento e seleção, desde a criação da vaga até a entrevista com candidatos.
